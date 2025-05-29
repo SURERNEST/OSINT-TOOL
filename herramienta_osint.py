@@ -1,15 +1,10 @@
 import os
 import requests
 import json
-import webbrowser
-from datetime import datetime
-import socket
-import whois
 from PIL import Image
 import exifread
 import phonenumbers
 from phonenumbers import carrier, geocoder, timezone
-import dns.resolver
 import shodan
 import ipwhois
 from pyfiglet import Figlet
